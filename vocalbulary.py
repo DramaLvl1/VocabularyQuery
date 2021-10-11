@@ -7,7 +7,7 @@ def vocabulary(question, answer):
   if i == answer:
     print("correct!\n\nyour input: " + i)
   else:
-    print("incorrect!\n\nYour input: " + i "\n\The correct answer: " + answer)
+    print("incorrect!\n\nYour input: " + i + "\n\The correct answer: " + answer)
   
 ########## examples ##########
 
